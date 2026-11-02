@@ -1,0 +1,6 @@
+{
+  "name": "SeoulFlix Hindi - कोरियन सीरीज़ और मूवीज़",
+  "description": "हजारों लोकप्रिय कोरियन ड्रामा (K-Dramas) और फ़िल्में हिंदी नाम, HD पोस्टर, ट्रेलर और विवरण के साथ खोजें और देखें।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
